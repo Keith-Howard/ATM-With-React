@@ -1,0 +1,21 @@
+.atm-container {
+    margin: auto;
+    background-color: rgb(154, 171, 189);
+    border-radius: 4px;
+    max-width: 375px;
+    padding: 5px;
+}
+body {
+    margin: auto;
+    width: 500px;
+    height: 275px;
+    border-radius: 4px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+
+h1{
+    font-family: "Arial";
+    background-color: whitesmoke;
+    text-align: center;
+}
